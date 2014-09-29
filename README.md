@@ -6,3 +6,4 @@ Maya uses its own embedded version of python which is usually compiled with a di
 If you have compiled an extension and would like to add, please make a pull request
 
 
+* [Maya 2014](https://github.com/theiviaxx/mayapy-bins/tree/master/maya2014)
